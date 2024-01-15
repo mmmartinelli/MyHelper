@@ -4,6 +4,14 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MyHelperLibPack</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Marcelo Martinelli</Authors>
+    <Company>Self</Company>
+
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
   </PropertyGroup>
 
 </Project>
